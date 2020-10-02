@@ -1,4 +1,4 @@
-### Hi there 👋
+ <!-- ### Hi there 👋
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydulera&show_icons=true&hide_border=true)
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
